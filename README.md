@@ -8,7 +8,9 @@ Search U.S. national parks, save your favorites, and plan a multi-park road trip
 <p align="center">
   <img src="docs/search.png" alt="Park search results" width="32%" />
   <img src="docs/details.png" alt="Park details card" width="32%" />
-  <img src="docs/trip-map.png" alt="Trip map with route" width="32%" />
+  <img src="docs/favorites.png" alt="Favorites page" width="32%" />
+  <img src="docs/tripdetails.png" alt="Trip details page" width="32%" />
+   <img src="docs/tripmap.png" alt="Trip map with route" width="32%" />
 </p>
 
 ## 🎥 Demo

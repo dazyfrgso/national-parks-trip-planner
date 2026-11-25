@@ -6,11 +6,13 @@ Search U.S. national parks, save your favorites, and plan a multi-park road trip
 
 <!-- Replace with your own screenshots. Drag images into the GitHub editor or put them in a /docs folder -->
 <p align="center">
-  <img src="docs/search.png" alt="Park search results" width="32%" />
-  <img src="docs/details.png" alt="Park details card" width="32%" />
-  <img src="docs/favorites.png" alt="Favorites page" width="32%" />
-  <img src="docs/tripdetails.png" alt="Trip details page" width="32%" />
-   <img src="docs/tripmap.png" alt="Trip map with route" width="32%" />
+  <img src="docs/search.png" alt="Park search results" width="48%" />
+  <img src="docs/details.png" alt="Park details card" width="48%" />
+  <img src="docs/favorites.png" alt="Favorites page" width="48%" />
+  <img src="docs/tripdetails.png" alt="Trip details with budget and drive time" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/tripmap.png" alt="Trip map with route" width="98%" />
 </p>
 
 ## 🎥 Demo

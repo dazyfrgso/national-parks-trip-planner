@@ -15,7 +15,11 @@ Search U.S. national parks, save your favorites, and plan a multi-park road trip
 
 ## 🎥 Demo
 
-▶️ [Watch the demo video](YOUR_LINK_HERE)
+▶️ [Watch the demo video](
+
+https://github.com/user-attachments/assets/ae62fe9a-0188-4d76-ac0c-f846b2bcf6f7
+
+)
 
 ## 📌 Overview
 

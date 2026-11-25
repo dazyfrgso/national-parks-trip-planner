@@ -4,7 +4,6 @@ Search U.S. national parks, save your favorites, and plan a multi-park road trip
 
 > Built solo for USC CSCI 201 (Principles of Software Development), Spring 2026. Source code is available on request.
 
-<!-- Replace with your own screenshots. Drag images into the GitHub editor or put them in a /docs folder -->
 <p align="center">
   <img src="docs/search.png" alt="Park search results" width="48%" />
   <img src="docs/details.png" alt="Park details card" width="48%" />
@@ -35,6 +34,7 @@ Planning a road trip across several national parks means juggling park info, ent
 - **Budget tracking:** Each trip starts with a $500 budget. Adding a park subtracts its entrance fee, and removing one adds the fee back, so you always see how much is left.
 - **Distance calculation:** The app computes the distance between consecutive stops and the trip's total mileage with the Haversine formula, using each park's latitude and longitude.
 - **Interactive route map:** Leaflet.js places a marker on each park and draws the route between stops in visit order.
+- **Drive-time estimates:** Shows the estimated drive time for each leg and for the whole trip, alongside total distance and remaining budget.
 
 ## 📱 How It Works
 
@@ -44,7 +44,7 @@ Planning a road trip across several national parks means juggling park info, ent
         ▼
  ┌──────────────────────────────┐
  │  AuthFilter                  │  Protects /favorites, /trips, /details
- │  (session check → 401/redirect)
+ │(session check → 401/redirect)|
  └──────────────┬───────────────┘
                 ▼
  Java Servlets on Tomcat 10.1
